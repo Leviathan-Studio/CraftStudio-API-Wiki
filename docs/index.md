@@ -1,4 +1,5 @@
-[EN]
+**[EN]**
+
  Welcome to the official wiki for the Minecraft CraftStudio API!
  
  In this wiki I will explain you how to create an entity or a block with the CraftStudio API, and show you some tips and tricks !
@@ -8,7 +9,8 @@
  Rewrite in progress ! 28/05/17
  
 ***
- [FR]
+ **[FR]**
+ 
  Bienvenue sur le wiki officiel de l'API CraftStudio pour Minecraft !
  
  Dans ce wiki vous trouverez toute les explications pour pouvoir créer une entité ou un bloc avec l'api, ainsi que des petits trucs et astuces !
