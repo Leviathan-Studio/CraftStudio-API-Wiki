@@ -1,8 +1,12 @@
 site_name: CraftStudio API
 pages: 
   - Home: 'index.md'
-  - CrafStudio Software:
-    - Exportation: 'export-cs.md'
+  - English:
+    - CrafStudio Software:
+      - Exportation: 'export-cs.md'
+  - Français:
+    - Logiciel CraftStudio:
+      - Exportation: 'export-cs-fr.md'
 
 theme: null
 theme_dir: 'craftstudio_theme'
