@@ -1,3 +1,6 @@
+Hello and Welcome !
+===================
+
 **[EN]**
 
  Welcome to the official wiki for the Minecraft CraftStudio API!
