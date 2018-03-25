@@ -1,4 +1,6 @@
 site_name: CraftStudio API
 pages: 
 - [index.md, Home]
-theme: yeti
+
+theme: null
+theme_dir: 'craftstudio_theme'
