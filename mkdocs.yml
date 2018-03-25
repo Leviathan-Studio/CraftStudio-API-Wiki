@@ -8,5 +8,5 @@ pages:
     - Exportation: 'export-cs.md'
   
 
-theme: null
-theme_dir: 'craftstudio_theme'
+theme: default
+#theme_dir: 'craftstudio_theme'
