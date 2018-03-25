@@ -2,7 +2,8 @@ site_name: CraftStudio API
 pages: 
   - Home: 'index.md'
   - Installation: 'add-api-project.md'
-  - Javadoc: 'https://doc.leviathan-studio.com/craftstudioapi/'
+  - Javadoc: 'javadoc.md'
+  - Example Mod: 'exemple-mod.md'
   - CrafStudio Software:
     - Exportation: 'export-cs.md'
   
