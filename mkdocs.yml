@@ -1,4 +1,4 @@
-site_name: Mkdocs Demo
+site_name: CraftStudio API
 pages: 
 - [index.md, Home]
 theme: yeti
