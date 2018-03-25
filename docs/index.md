@@ -21,5 +21,3 @@ Hello and Welcome !
  Pour plus d'info vous pouvez contacter [@ZeAmateis](twitter.com/ZeAmateis) ou [@Timmypote](twitter.com/Timmypote)
  
  _Réécriture en cours ! 25/03/18_
- 
- ![](https://github.com/Leviathan-Studio/CraftStudio-Converter-Forge-Test/blob/master/images/demo.gif)
