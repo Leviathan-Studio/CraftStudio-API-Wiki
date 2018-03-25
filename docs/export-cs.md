@@ -1,3 +1,6 @@
+CraftStudio Exporting Commands
+==============================
+
 In CraftStudio, you need to export your model(s) or animation(s) in JSON format with these commands:
 
 To export your model type:
