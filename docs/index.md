@@ -6,7 +6,7 @@
  
  For more informations you can contact [@ZeAmateis](twitter.com/ZeAmateis) or [@Timmypote](twitter.com/Timmypote)
  
- Rewrite in progress ! 28/05/17
+ _Rewrite in progress ! 25/03/18_
  
 ***
  **[FR]**
@@ -17,6 +17,6 @@
  
  Pour plus d'info vous pouvez contacter [@ZeAmateis](twitter.com/ZeAmateis) ou [@Timmypote](twitter.com/Timmypote)
  
- Réécriture en cours ! 28/05/17
+ _Réécriture en cours ! 25/03/18_
  
  ![](https://github.com/Leviathan-Studio/CraftStudio-Converter-Forge-Test/blob/master/images/demo.gif)
