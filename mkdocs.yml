@@ -1,0 +1,4 @@
+site_name: Mkdocs Demo
+pages: 
+- [index.md, Home]
+theme: yeti
